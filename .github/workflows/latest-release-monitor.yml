@@ -1,5 +1,5 @@
 name: Latest Release Monitor
-on:
+on:/storage/emulated/0/Download/e355b640-254b-11ef-8007-355521917463.tar.gz
   schedule:
     - cron: 0/5 * * * *
   repository_dispatch:
